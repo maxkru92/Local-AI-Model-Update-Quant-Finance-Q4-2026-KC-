@@ -1,6 +1,6 @@
 # Q4/2026 Local AI Model Update — Quant Finance Coding & Modelling
 
-![Q4/2026 Local AI Model Update — Quant Finance Coding & Modelling](./assets/q4-2026-local-ai-model-update-cover.svg)
+<img width="1792" height="2400" alt="Gemini_Generated_Image_bltvvrbltvvrbltv" src="https://github.com/user-attachments/assets/9b9f24c3-a2fe-4c54-8b43-674975bf0629" />
 
 ## English version
 
